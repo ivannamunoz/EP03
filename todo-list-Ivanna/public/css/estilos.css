@@ -1,0 +1,36 @@
+body{
+    background : url("img/fondo.jpg") no-repeat;
+    background-size: cover;
+}
+header{
+    border-radius: 15px;
+    font-size: 60px;
+    color: rgba(226, 249, 48, 0.91);
+    margin-top: 15px;
+    margin-left: 315px;
+    margin-bottom: 40px;
+    padding:20px;
+    text-align: center;
+    width: 40%;
+}
+#todos{
+    margin-left: 20px;
+    margin-top: 30px;
+    border: 10px;
+    }
+#tarea{
+    margin-left: 530px;
+    margin-top:5px;
+    box-shadow: 1px 0px 8px 5px #fff;
+    border-radius: 5px;
+    width: 300px;
+    height: 100px;
+ }
+#ntarea{
+	margin-left: 580px;
+	color: rgba(226, 249, 48, 0.91);
+}
+
+::-webkit-input-placeholder {
+ color: rgba(226, 249, 48, 0.91);
+}
